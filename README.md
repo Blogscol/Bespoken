@@ -1,1 +1,1 @@
-Bespoken
+El Plugin crea un widget en Elementor llamado "Slider Members" donde se pueden ir agregando los distintos miembros del equipo, el slider se activa en versión web si hay más de 3 miembros agregados, y en versión mobile cuando hay más de 1 miembro.
